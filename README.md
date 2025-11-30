@@ -189,7 +189,7 @@ MIT License - See LICENSE file for details
 
 ## 👨‍💻 Author
 
-Created by नवनीत कुमार (Navneet Kumar)
+Created by Kavyansh Verma
 
 ## 🤝 Contributing
 
